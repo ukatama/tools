@@ -1,0 +1,11 @@
+{
+  "name": "si2mf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "byline": "^5.0.0",
+    "moment": "^2.22.1"
+  }
+}

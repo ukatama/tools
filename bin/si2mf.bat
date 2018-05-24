@@ -1,0 +1,1 @@
+@node %~dp0\..\si2mf > %USERPROFILE%\Desktop\suica.csv
